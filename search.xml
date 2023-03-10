@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Markdown语法入门</title>
+    <url>/2023/03/07/Markdown%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<h1 id="Markdown快速入门（typora）"><a href="#Markdown快速入门（typora）" class="headerlink" title="Markdown快速入门（typora）"></a>Markdown快速入门（typora）</h1><h1 id="注-：源码可以通过点击左下方“启动源码模式”获取。"><a href="#注-：源码可以通过点击左下方“启动源码模式”获取。" class="headerlink" title="注 ：源码可以通过点击左下方“启动源码模式”获取。"></a>注 ：源码可以通过点击左下方“启动源码模式”获取。</h1><h2 id="1-代码块："><a href="#1-代码块：" class="headerlink" title="1.代码块："></a>1.代码块：</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//代码块语法</span></span><br><span class="line">​```java</span><br><span class="line">​```shell</span><br></pre></td></tr></table></figure>
+
+<p><strong>1.java代码</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> java.persistence;</span><br></pre></td></tr></table></figure>
+
+<p><strong>2.shell脚本</strong></p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">//Linux下spring项目的启动命令</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">java -jar blog start</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="2-标题"><a href="#2-标题" class="headerlink" title="2.标题"></a>2.标题</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//标题语法（#号后要加空格）</span></span><br><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">#### 四级标题</span><br><span class="line">##### 五级标题    </span><br><span class="line">###### 六级标题    </span><br></pre></td></tr></table></figure>
+
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="3-字体"><a href="#3-字体" class="headerlink" title="3.字体"></a>3.字体</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//加粗</span></span><br><span class="line">**等**</span><br><span class="line"><span class="comment">//高亮</span></span><br><span class="line">==我是==</span><br><span class="line"><span class="comment">//删除线</span></span><br><span class="line">~~被删除~~</span><br><span class="line"><span class="comment">//斜体</span></span><br><span class="line">*斜体内容*</span><br></pre></td></tr></table></figure>
+
+<p>//加粗<br><strong>等</strong><br>//代码高亮</p>
+<p>（注：Typora默认关闭高亮，需去“文件—&gt;偏好设置”里开启）</p>
+<p>==我==</p>
+<p>//删除线<br><del>被删除</del><br>//斜体<br><em>斜体内容</em></p>
+<h2 id="4-引用"><a href="#4-引用" class="headerlink" title="4.引用"></a>4.引用</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//引用语法</span></span><br><span class="line">&gt;作者：王</span><br><span class="line">&gt;&gt;作者：王</span><br><span class="line">&gt;&gt;&gt;作者：王    </span><br></pre></td></tr></table></figure>
+
+<p>//引用语法</p>
+<blockquote>
+<p>作者：王</p>
+<blockquote>
+<p>作者：王</p>
+<blockquote>
+<p>作者：王  </p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="5-分割线"><a href="#5-分割线" class="headerlink" title="5.分割线"></a>5.分割线</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//分割线</span></span><br><span class="line">---</span><br><span class="line"><span class="comment">//分割线2</span></span><br><span class="line">***</span><br></pre></td></tr></table></figure>
+
+<hr>
+<hr>
+<h2 id="6-图片插入"><a href="#6-图片插入" class="headerlink" title="6.图片插入"></a>6.图片插入</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在线图片/本地图片</span></span><br><span class="line">![我的照片](图片路径)</span><br></pre></td></tr></table></figure>
+
+<p><img src="C:\Users\wang'hui'long\Pictures\Default.jpg" alt="图片" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<h2 id="7-超链接"><a href="#7-超链接" class="headerlink" title="7.超链接"></a>7.超链接</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//超链接语法</span></span><br><span class="line">[显示名字，例：我的博客](https:<span class="comment">//huilongwang.gitee.io/)</span></span><br></pre></td></tr></table></figure>
+
+<p><a href="https://huilongwang.gitee.io/">显示名字，例：我的博客</a></p>
+<h2 id="8-列表"><a href="#8-列表" class="headerlink" title="8.列表"></a>8.列表</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//无序列表（-后有空格）</span></span><br><span class="line">- 目录一</span><br><span class="line">- 目录二</span><br><span class="line">- 目录三</span><br><span class="line"><span class="comment">//有序列表（.后有空格）</span></span><br><span class="line"><span class="number">1.</span> 名称</span><br><span class="line"><span class="number">2.</span> 名称</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>目录一</li>
+<li>目录二</li>
+<li>目录三</li>
+</ul>
+<ol>
+<li>首页</li>
+<li>下页</li>
+<li>三页</li>
+</ol>
+<h2 id="9-表格"><a href="#9-表格" class="headerlink" title="9.表格"></a>9.表格</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//一般使用快捷键，点击鼠标右键选择插入选择表格</span></span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>成绩</th>
+<th>学号</th>
+<th>姓名</th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>work</title>
+    <url>/2023/03/10/work/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
