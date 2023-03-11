@@ -37,7 +37,7 @@
 <hr>
 <h2 id="6-图片插入"><a href="#6-图片插入" class="headerlink" title="6.图片插入"></a>6.图片插入</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在线图片/本地图片</span></span><br><span class="line">![我的照片](图片路径)</span><br></pre></td></tr></table></figure>
 
-<p><img src="C:\Users\wang'hui'long\Pictures\Default.jpg" alt="图片"></p>
+<p><img src="C:\Users\wang'hui'long\Pictures\Default.jpg" alt="图片" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
 <h2 id="7-超链接"><a href="#7-超链接" class="headerlink" title="7.超链接"></a>7.超链接</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//超链接语法</span></span><br><span class="line">[显示名字，例：我的博客](https:<span class="comment">//huilongwang.gitee.io/)</span></span><br></pre></td></tr></table></figure>
 
 <p><a href="https://huilongwang.gitee.io/">显示名字，例：我的博客</a></p>
@@ -84,6 +84,11 @@
   <entry>
     <title>work</title>
     <url>/2023/03/10/work/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>work2</title>
+    <url>/2023/03/11/work2/</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
