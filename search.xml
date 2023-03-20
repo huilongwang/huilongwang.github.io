@@ -85,18 +85,6 @@
       </tags>
   </entry>
   <entry>
-    <title>homework01</title>
-    <url>/2023/03/19/homework01/</url>
-    <content><![CDATA[<p><strong>（目前图床还没搞定，所以就没有自己的图了）</strong></p>
-<h2 id="作业一：关于《现代软件工程基础》这本书我要提出的问题"><a href="#作业一：关于《现代软件工程基础》这本书我要提出的问题" class="headerlink" title="作业一：关于《现代软件工程基础》这本书我要提出的问题!"></a>作业一：关于《现代软件工程基础》这本书我要提出的问题!</h2><p><img src="http://www.tup.tsinghua.edu.cn/upload/bigbookimg/088973-01.jpg" alt="01" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
-<hr>
-<h3 id="问题一"><a href="#问题一" class="headerlink" title="问题一"></a>问题一</h3><p>​    </p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>homework02</title>
     <url>/2023/03/19/homework02/</url>
     <content><![CDATA[<h2 id="我对软件工程的希望及个人目标："><a href="#我对软件工程的希望及个人目标：" class="headerlink" title="我对软件工程的希望及个人目标："></a>我对软件工程的希望及个人目标：</h2><ul>
@@ -115,6 +103,18 @@
       </tags>
   </entry>
   <entry>
+    <title>homework01</title>
+    <url>/2023/03/19/homework01/</url>
+    <content><![CDATA[<p><strong>（目前图床还没搞定，所以就没有自己的图了）</strong></p>
+<h2 id="作业一：关于《现代软件工程基础》这本书我要提出的问题"><a href="#作业一：关于《现代软件工程基础》这本书我要提出的问题" class="headerlink" title="作业一：关于《现代软件工程基础》这本书我要提出的问题!"></a>作业一：关于《现代软件工程基础》这本书我要提出的问题!</h2><p><img src="http://www.tup.tsinghua.edu.cn/upload/bigbookimg/088973-01.jpg" alt="01" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<hr>
+<h3 id="问题一"><a href="#问题一" class="headerlink" title="问题一"></a>问题一</h3><p>​    </p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>homework03</title>
     <url>/2023/03/19/homework03/</url>
     <content><![CDATA[<h2 id="1-从瀑布到敏捷——漫画解读软件开发模式变迁史"><a href="#1-从瀑布到敏捷——漫画解读软件开发模式变迁史" class="headerlink" title="1.从瀑布到敏捷——漫画解读软件开发模式变迁史"></a>1.<a href="https://www.likecs.com/show-205163408.html">从瀑布到敏捷——漫画解读软件开发模式变迁史</a></h2><hr>
@@ -123,21 +123,6 @@
 <li>一阶段一阶段的进行开发，能让我们在开发软件时有计划、有规划、有效率的进行开发。</li>
 <li>方法论通过对任务进行拆分，将一个复杂的任务拆分成一个一个小事，再把这些小事串成一个大事情，分而治之。能更有效的开发。</li>
 </ul>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>homework04</title>
-    <url>/2023/03/19/homework04/</url>
-    <content><![CDATA[<h2 id="什么是DevOps-阅读材料"><a href="#什么是DevOps-阅读材料" class="headerlink" title="什么是DevOps?阅读材料"></a>什么是DevOps?阅读<a href="https://www.zhihu.com/question/58702398">材料</a></h2><p>​    DevOps是产品开发过程中开发（Dev）和运营（Ops）团队之间的灰色区域。DevOps是一种在产品开发周期中强调沟通，集成和协作的文化。因此，它消除了软件开发团队和运营团队之间的孤岛，使他们能够快速，连续地集成和部署产品。</p>
-<p>​    DevOps 就是开发（Development）、测试（QA）、运维（Operations）这三个领域的合并。DevOps是一种软件开发方法，涉及软件在整个开发生命周期中的持续开发，持续测试，持续集成，持续部署和持续监控。</p>
-<p>编码——》打包——》测试——》发布——》部署——》运维——》监控</p>
-<p>DevOps 的三大支柱之中，即人（People）、流程（Process）和平台（Platform）。即`<strong>DevOps = 人 + 流程 + 平台</strong>‘</p>
-<p>人 + 流程 = 文化</p>
-<p>流程 + 平台 = 工具</p>
-<p>平台 + 人 = 赋能</p>
 ]]></content>
       <tags>
         <tag>text</tag>
@@ -161,6 +146,31 @@
 <p>Sprint评审会：时间箱为对应Sprint中每一周对应一个小时SPrint回顾会：时间箱为对应Sprint中的每一周为45分钟</p>
 </li>
 </ul>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework06</title>
+    <url>/2023/03/20/homework06/</url>
+    <content><![CDATA[<h2 id="理解结对编程："><a href="#理解结对编程：" class="headerlink" title="理解结对编程："></a>理解结对编程：</h2><p>​    结对编程并不是一种全新的概念，早在20世纪50年代，就已经有了结对编程的实践。结对编程主要针对软件开发团队中两个人或多个人之间的合作项目。通过对<strong>工作流</strong>（工作流，是把业务之间的各个步骤以及规则进行抽象和概括性的描述。使用特定的语言为业务流程建模，让其运行在计算机上，并让计算机进行计算和推动。）进行优化，在不影响速度和质量的前提下，把更多的时间花在一起讨论问题和完成项目。对软件开发团队来说，这是一种非常有效地工作方式。虽然结对编程可以帮助解决很多问题，但是也有一些缺点，比如它只能解决部分问题。结对编程会导致在软件开发过程中出现许多不必要的重复性工作，浪费大量时间和人力来处理这些工作。另外，结对编程会对软件开发团队造成干扰，当团队中有人正在工作时，其他人是无法使用这些技术的。</p>
+<p>​     在一个软件开发团队中，需要多个不同的角色参与进来，才能完成项目。在结对编程的情况下，多个团队成员之间是不会互相影响的，这样才能让他们投入更多的时间在一起讨论、分析问题，从而提高产品的质量。即使在最小的团队中，也应该有不同的角色，每个角色都应该知道自己在整个项目中所扮演的角色。除了开发团队外，还有质量保证团队、客户支持团队等等，每个人都应该知道自己在项目中所扮演的角色。每个人都需要知道自己所在团队是如何解决问题，并通过怎样的方式来完成工作，才能让整个项目按时完成。通过让多个团队成员参与到项目中来，可以提高整个项目的效率和质量，避免出现不必要的重复性工作。</p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework04</title>
+    <url>/2023/03/19/homework04/</url>
+    <content><![CDATA[<h2 id="什么是DevOps-阅读材料"><a href="#什么是DevOps-阅读材料" class="headerlink" title="什么是DevOps?阅读材料"></a>什么是DevOps?阅读<a href="https://www.zhihu.com/question/58702398">材料</a></h2><p>​    DevOps是产品开发过程中开发（Dev）和运营（Ops）团队之间的灰色区域。DevOps是一种在产品开发周期中强调沟通，集成和协作的文化。因此，它消除了软件开发团队和运营团队之间的孤岛，使他们能够快速，连续地集成和部署产品。</p>
+<p>​    DevOps 就是开发（Development）、测试（QA）、运维（Operations）这三个领域的合并。DevOps是一种软件开发方法，涉及软件在整个开发生命周期中的持续开发，持续测试，持续集成，持续部署和持续监控。</p>
+<p>编码——》打包——》测试——》发布——》部署——》运维——》监控</p>
+<p>DevOps 的三大支柱之中，即人（People）、流程（Process）和平台（Platform）。即`<strong>DevOps = 人 + 流程 + 平台</strong>‘</p>
+<p>人 + 流程 = 文化</p>
+<p>流程 + 平台 = 工具</p>
+<p>平台 + 人 = 赋能</p>
 ]]></content>
       <tags>
         <tag>text</tag>
@@ -237,16 +247,6 @@
 <p>6、便于划分和分派责任；</p>
 <p>7、确定工作内容和工作顺序；</p>
 <p>8、估算项目整体和全过程的费用。</p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>homework06</title>
-    <url>/2023/03/20/homework06/</url>
-    <content><![CDATA[<h2 id="理解结对编程："><a href="#理解结对编程：" class="headerlink" title="理解结对编程："></a>理解结对编程：</h2><p>​    结对编程并不是一种全新的概念，早在20世纪50年代，就已经有了结对编程的实践。结对编程主要针对软件开发团队中两个人或多个人之间的合作项目。通过对<strong>工作流</strong>（工作流，是把业务之间的各个步骤以及规则进行抽象和概括性的描述。使用特定的语言为业务流程建模，让其运行在计算机上，并让计算机进行计算和推动。）进行优化，在不影响速度和质量的前提下，把更多的时间花在一起讨论问题和完成项目。对软件开发团队来说，这是一种非常有效地工作方式。虽然结对编程可以帮助解决很多问题，但是也有一些缺点，比如它只能解决部分问题。结对编程会导致在软件开发过程中出现许多不必要的重复性工作，浪费大量时间和人力来处理这些工作。另外，结对编程会对软件开发团队造成干扰，当团队中有人正在工作时，其他人是无法使用这些技术的。</p>
-<p>​     在一个软件开发团队中，需要多个不同的角色参与进来，才能完成项目。在结对编程的情况下，多个团队成员之间是不会互相影响的，这样才能让他们投入更多的时间在一起讨论、分析问题，从而提高产品的质量。即使在最小的团队中，也应该有不同的角色，每个角色都应该知道自己在整个项目中所扮演的角色。除了开发团队外，还有质量保证团队、客户支持团队等等，每个人都应该知道自己在项目中所扮演的角色。每个人都需要知道自己所在团队是如何解决问题，并通过怎样的方式来完成工作，才能让整个项目按时完成。通过让多个团队成员参与到项目中来，可以提高整个项目的效率和质量，避免出现不必要的重复性工作。</p>
 ]]></content>
       <tags>
         <tag>text</tag>
