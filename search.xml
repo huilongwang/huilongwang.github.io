@@ -1,3 +1,255 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
+  <entry>
+    <title>Markdown语法入门</title>
+    <url>/2023/03/07/Markdown%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<h1 id="Markdown快速入门（typora）"><a href="#Markdown快速入门（typora）" class="headerlink" title="Markdown快速入门（typora）"></a>Markdown快速入门（typora）</h1><h1 id="注-：源码可以通过点击左下方“启动源码模式”获取。"><a href="#注-：源码可以通过点击左下方“启动源码模式”获取。" class="headerlink" title="注 ：源码可以通过点击左下方“启动源码模式”获取。"></a>注 ：源码可以通过点击左下方“启动源码模式”获取。</h1><h2 id="1-代码块："><a href="#1-代码块：" class="headerlink" title="1.代码块："></a>1.代码块：</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//代码块语法</span></span><br><span class="line">​```java</span><br><span class="line">​```shell</span><br></pre></td></tr></table></figure>
+
+<p><strong>1.java代码</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> java.persistence;</span><br></pre></td></tr></table></figure>
+
+<p><strong>2.shell脚本</strong></p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">//Linux下spring项目的启动命令</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">java -jar blog start</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="2-标题"><a href="#2-标题" class="headerlink" title="2.标题"></a>2.标题</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//标题语法（#号后要加空格）</span></span><br><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">#### 四级标题</span><br><span class="line">##### 五级标题    </span><br><span class="line">###### 六级标题    </span><br></pre></td></tr></table></figure>
+
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="3-字体"><a href="#3-字体" class="headerlink" title="3.字体"></a>3.字体</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//加粗</span></span><br><span class="line">**等**</span><br><span class="line"><span class="comment">//高亮</span></span><br><span class="line">==我是==</span><br><span class="line"><span class="comment">//删除线</span></span><br><span class="line">~~被删除~~</span><br><span class="line"><span class="comment">//斜体</span></span><br><span class="line">*斜体内容*</span><br></pre></td></tr></table></figure>
+
+<p>//加粗<br><strong>等</strong><br>//代码高亮</p>
+<p>（注：Typora默认关闭高亮，需去“文件—&gt;偏好设置”里开启）</p>
+<p>==我==</p>
+<p>//删除线<br><del>被删除</del><br>//斜体<br><em>斜体内容</em></p>
+<h2 id="4-引用"><a href="#4-引用" class="headerlink" title="4.引用"></a>4.引用</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//引用语法</span></span><br><span class="line">&gt;作者：王</span><br><span class="line">&gt;&gt;作者：王</span><br><span class="line">&gt;&gt;&gt;作者：王    </span><br></pre></td></tr></table></figure>
+
+<p>//引用语法</p>
+<blockquote>
+<p>作者：王</p>
+<blockquote>
+<p>作者：王</p>
+<blockquote>
+<p>作者：王  </p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="5-分割线"><a href="#5-分割线" class="headerlink" title="5.分割线"></a>5.分割线</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//分割线</span></span><br><span class="line">---</span><br><span class="line"><span class="comment">//分割线2</span></span><br><span class="line">***</span><br></pre></td></tr></table></figure>
+
+<hr>
+<hr>
+<h2 id="6-图片插入"><a href="#6-图片插入" class="headerlink" title="6.图片插入"></a>6.图片插入</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//在线图片/本地图片</span></span><br><span class="line">![我的照片](图片路径)</span><br></pre></td></tr></table></figure>
+
+<p><img src="../images/1.jpg" alt="1" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<h2 id="7-超链接"><a href="#7-超链接" class="headerlink" title="7.超链接"></a>7.超链接</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//超链接语法</span></span><br><span class="line">[显示名字，例：我的博客](https:<span class="comment">//huilongwang.gitee.io/)</span></span><br></pre></td></tr></table></figure>
+
+<p><a href="https://huilongwang.gitee.io/">显示名字，例：我的博客</a></p>
+<h2 id="8-列表"><a href="#8-列表" class="headerlink" title="8.列表"></a>8.列表</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//无序列表（-后有空格）</span></span><br><span class="line">- 目录一</span><br><span class="line">- 目录二</span><br><span class="line">- 目录三</span><br><span class="line"><span class="comment">//有序列表（.后有空格）</span></span><br><span class="line"><span class="number">1.</span> 名称</span><br><span class="line"><span class="number">2.</span> 名称</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>目录一</li>
+<li>目录二</li>
+<li>目录三</li>
+</ul>
+<ol>
+<li>首页</li>
+<li>下页</li>
+<li>三页</li>
+</ol>
+<h2 id="9-表格"><a href="#9-表格" class="headerlink" title="9.表格"></a>9.表格</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//一般使用快捷键，点击鼠标右键选择插入选择表格</span></span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>成绩</th>
+<th>学号</th>
+<th>姓名</th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <tags>
+        <tag>live</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework01</title>
+    <url>/2023/03/19/homework01/</url>
+    <content><![CDATA[<p><strong>（目前图床还没搞定，所以就没有自己的图了）</strong></p>
+<h2 id="作业一：关于《现代软件工程基础》这本书我要提出的问题"><a href="#作业一：关于《现代软件工程基础》这本书我要提出的问题" class="headerlink" title="作业一：关于《现代软件工程基础》这本书我要提出的问题!"></a>作业一：关于《现代软件工程基础》这本书我要提出的问题!</h2><p><img src="http://www.tup.tsinghua.edu.cn/upload/bigbookimg/088973-01.jpg" alt="01" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<hr>
+<h3 id="问题一"><a href="#问题一" class="headerlink" title="问题一"></a>问题一</h3><p>​    </p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework02</title>
+    <url>/2023/03/19/homework02/</url>
+    <content><![CDATA[<h2 id="我对软件工程的希望及个人目标："><a href="#我对软件工程的希望及个人目标：" class="headerlink" title="我对软件工程的希望及个人目标："></a>我对软件工程的希望及个人目标：</h2><ul>
+<li>我希望通过软件工程这门课程能开发一些较为简单的软件。</li>
+<li>从源头来看其实我是因为想做出自己的一款游戏而选择的软件工程，因此我希望在学完这门课程后我可以在对游戏的开发有一定的了解，而不是摸不着头脑。</li>
+<li>个人目标的话，首先就是<strong>不挂科</strong>然后我打算在课程结束时能开发出自己的第一款软件。</li>
+</ul>
+<h2 id="软件工程是不是教会不怎么会写程序的人开发软件？"><a href="#软件工程是不是教会不怎么会写程序的人开发软件？" class="headerlink" title="软件工程是不是教会不怎么会写程序的人开发软件？"></a>软件工程是不是教会不怎么会写程序的人开发软件？</h2><ul>
+<li>软件工程只是软件开发的工程化，并不是开发软件的直通车。</li>
+<li>软件开发需要从现实需求出发，对相应的现实问题进行理解，为此一般都需要对问题进行抽象；其次，他们会根据自己对于问题的理解编写程序，一般还需要通过测试来验证程序是否满足问题的描述；最后，他们将所编写的程序部署在计算服务器，个人计算机，移动设备等计算设备上，从而使其能帮助用户解决现实世界问题。由此可见，软件开发是一个从现实世界到计算机世界的知识转换过程，即针对现实世界问题开发可以在计算设备上部署并运行的解决方案。</li>
+<li>由此可见，软件工程需要兼顾软件质量、开发成本与交付时间。所以软件工程并不是教会不怎么写程序的人开发软件。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework03</title>
+    <url>/2023/03/19/homework03/</url>
+    <content><![CDATA[<h2 id="1-从瀑布到敏捷——漫画解读软件开发模式变迁史"><a href="#1-从瀑布到敏捷——漫画解读软件开发模式变迁史" class="headerlink" title="1.从瀑布到敏捷——漫画解读软件开发模式变迁史"></a>1.<a href="https://www.likecs.com/show-205163408.html">从瀑布到敏捷——漫画解读软件开发模式变迁史</a></h2><hr>
+<h2 id="2-有人负责，才有质量：写给在集市中迷失的一代"><a href="#2-有人负责，才有质量：写给在集市中迷失的一代" class="headerlink" title="2.有人负责，才有质量：写给在集市中迷失的一代"></a>2.<a href="https://www.ituring.com.cn/article/9363">有人负责，才有质量：写给在集市中迷失的一代</a></h2><hr>
+<h2 id="3-软件工程方法论对我们软件开发有多大用处？"><a href="#3-软件工程方法论对我们软件开发有多大用处？" class="headerlink" title="3.软件工程方法论对我们软件开发有多大用处？"></a>3.软件工程方法论对我们软件开发有多大用处？</h2><ul>
+<li>一阶段一阶段的进行开发，能让我们在开发软件时有计划、有规划、有效率的进行开发。</li>
+<li>方法论通过对任务进行拆分，将一个复杂的任务拆分成一个一个小事，再把这些小事串成一个大事情，分而治之。能更有效的开发。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework04</title>
+    <url>/2023/03/19/homework04/</url>
+    <content><![CDATA[<h2 id="什么是DevOps-阅读材料"><a href="#什么是DevOps-阅读材料" class="headerlink" title="什么是DevOps?阅读材料"></a>什么是DevOps?阅读<a href="https://www.zhihu.com/question/58702398">材料</a></h2><p>​    DevOps是产品开发过程中开发（Dev）和运营（Ops）团队之间的灰色区域。DevOps是一种在产品开发周期中强调沟通，集成和协作的文化。因此，它消除了软件开发团队和运营团队之间的孤岛，使他们能够快速，连续地集成和部署产品。</p>
+<p>​    DevOps 就是开发（Development）、测试（QA）、运维（Operations）这三个领域的合并。DevOps是一种软件开发方法，涉及软件在整个开发生命周期中的持续开发，持续测试，持续集成，持续部署和持续监控。</p>
+<p>编码——》打包——》测试——》发布——》部署——》运维——》监控</p>
+<p>DevOps 的三大支柱之中，即人（People）、流程（Process）和平台（Platform）。即`<strong>DevOps = 人 + 流程 + 平台</strong>‘</p>
+<p>人 + 流程 = 文化</p>
+<p>流程 + 平台 = 工具</p>
+<p>平台 + 人 = 赋能</p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework05</title>
+    <url>/2023/03/19/homework05/</url>
+    <content><![CDATA[<h2 id="查询相关资料，了解什么是scrum中的3355？"><a href="#查询相关资料，了解什么是scrum中的3355？" class="headerlink" title="查询相关资料，了解什么是scrum中的3355？"></a>查询相关资料，了解什么是scrum中的3355？</h2><ul>
+<li><p><a href="http://t.csdn.cn/lOVqj">资料</a></p>
+</li>
+<li><p>scrum的3355是指：</p>
+<p>3个工件：产品Backlog, Sprint Backlog,潜在可交付软件增量</p>
+<p>3个角色：PO, Master, 团队（最适合人数为7-2到7+2之间）</p>
+<p>5个会议：产品待办梳理会，Sprint计划会，每日站会，Sprint评审会，Sprint回顾会</p>
+<p>5个价值观：公开，专注，勇气，承诺，尊重</p>
+<p>Scrum需遵守间箱原则：</p>
+<p>产品待办梳理会：不多于一个Sprint的10%，如两周的Sprint,可能要花一天的时间</p>
+<p>Sprint计划会分两个部分，在每个Sprint开始时召开。第一部分，产品负责人和团队审视产品待办事项列表中，这个Sprint中实现那些高优先级的事项。第二部分关注于如何实现团队决定要做的事项。每个部分的时间箱的小时数与Sprint的周数相等。如两周上鼐Sprint, 这个会议的时间为4小时。</p>
+<p>Sprint站会：每天应小于15分钟</p>
+<p>Sprint评审会：时间箱为对应Sprint中每一周对应一个小时SPrint回顾会：时间箱为对应Sprint中的每一周为45分钟</p>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework07</title>
+    <url>/2023/03/20/homework07/</url>
+    <content><![CDATA[<h2 id="1-Quora精选：为什么软件开发周期总是预估的2-3倍？"><a href="#1-Quora精选：为什么软件开发周期总是预估的2-3倍？" class="headerlink" title="1.Quora精选：为什么软件开发周期总是预估的2-3倍？"></a>1.Quora精选：<a href="https://www.sohu.com/a/132411358_355123">为什么软件开发周期总是预估的2-3倍？</a></h2><h2 id="2-什么是分而治之"><a href="#2-什么是分而治之" class="headerlink" title="2.什么是分而治之"></a>2.什么是分而治之</h2><p><strong>一、成语释义</strong></p>
+<p>​    分而治之，出自——清代俞樾的《群经平议·周官二》“巫马下士二人医四人”：“凡邦之有疾病者，疟疡者造焉，则使医分而治之，是亦不自医也。”</p>
+<p>释义：1、分别治理：2、利用手段使国家、民族或宗教等产生分裂，然后对其进行控制和统治。</p>
+<p><strong>二、作为计算机中的术语</strong></p>
+<p><strong>官方解释：</strong></p>
+<p>​    “分而治之”( Divide and conquer)方法(又称“分治术”)，是有效算法设计中普遍采用的一种技术。<br>​    所谓”分而治之”就是把一个复杂的算法问题按一定的“分解”方法分为等价的规模较小的若干部分，然后逐个解决，分别找出各部分的解，把各部分的解组成整个问题的解，这种朴素的思想来源于人们生活与工作的经验，也完全适合于技术领域。诸如软件的体系结构设计、模块化设计都是分而治之的具体表现。</p>
+<p><strong>基本思想：</strong><br>分而治之方法与软件设计的模块化方法非常相似。为了解决一个大的问题，可以:</p>
+<ul>
+<li>把它分成两个或多个更小的问题;</li>
+<li>分别解决每个小问题;</li>
+<li>把各小问题的解答组合起来，即可得到原问题的解答。小问题通常与原问题相似，可以递归地使用分而治之策略来解决。分而治之方法可以用于实现不同的排序方法，这里介绍两种排序法:快速排序(quick sort)和归并排序</li>
+</ul>
+<p><strong>三：个人观点</strong></p>
+<p>对于“分而治之”作为计算机中专业术语的领悟还不够，学习的还不够多，不够深入，无法给出相信的专业看法。</p>
+<p>下面仅结合个人现有水平，说说一些自己的想法。</p>
+<p>分而治之，顾名思义，让我想到其与因地制宜、因材施教相似，也可通俗易懂得理解为由易到难、循序渐进解决问题的方法。面对一个难题无从下手时，我们往往需要将对象做进一步的剖析——分解为各个组成部分，需要时对各部分再进行细分，然后从各部分下手，逐个击破，一层一层解决，最终达到解决问题的目的。</p>
+<p>我觉得这与自顶向下的设计方法是大同小异的。就像制造机器，制造机器也是有主零件，备件，螺丝等，把这些东西按照组装图的要求进行制作、组装起来，再经过调试，就实现了该机器的功能。而当出现问题的时候，我们只需要要从零部件入手，一个一个排除，找到有问题的零部件，就能快速将问题及时解决，而不需要进行整体的置换。</p>
+<p><strong>四：结尾</strong></p>
+<p>分而治之的思想不仅仅只是作为计算机术语使用，也可以将之应用到我们的生活中去，这样才能达到学以致用的效果，就如成语释义中所说的——利用手段，分别治理，最终对其进行控制和统治。</p>
+<h2 id="3-了解WBS"><a href="#3-了解WBS" class="headerlink" title="3.了解WBS"></a>3.了解<a href="http://t.csdn.cn/p2JBm">WBS</a></h2><h3 id="一、WBS含义"><a href="#一、WBS含义" class="headerlink" title="一、WBS含义"></a>一、WBS含义</h3><p>WBS是工作分解结构(WorkBreakdownStructureWBS)的简称，表示以可交付成果为导向对项目要素进行的分组，它归纳和定义了项目的整个工作范围，每下降一层代表对项目工作的更详细定义.\n无论在项目管理实践中，还是在PMP考试中，工作分解结构(WBS)都是最重要的内容。WBS总是处于计划过程的中心，也是制定进度计划、资源需求、成本预算、风险管理计划和采购计划等的重要基础。WBS同时也是控制项目变更的重要基础。项目范围是由WBS定义的，所以WBS也是一个项目的综合工具。</p>
+<h3 id="二、WBS主要用途"><a href="#二、WBS主要用途" class="headerlink" title="二、WBS主要用途"></a>二、WBS主要用途</h3><p>1、WBS是一个描述思路的规划和设计工具。它帮助项目经理和项目团队确定和有效地管理项目的工作。</p>
+<p>2、WBS是一个清晰地表示各项目工作之间的相互联系的结构设计工具。</p>
+<p>3、WBS是一个展现项目全貌，详细说明为完成项目所必须完成的各项工作的计划工具。</p>
+<p>4、WBS定义了里程碑事件，可以向高级管理层和客户报告项目完成情况，作为项目状况的报告工具。</p>
+<h3 id="三、WBS的创建方法"><a href="#三、WBS的创建方法" class="headerlink" title="三、WBS的创建方法"></a>三、WBS的创建方法</h3><p>创建WBS是指将复杂的项目分解为一系列明确定义的项目工作并作为随后计划活动的指导文档。WBS的创建方法主要有以下两种：</p>
+<p>1、类比方法。参考类似项目的WBS创建新项目的WBS。</p>
+<p>2、自上而下的方法。从项目的目标开始，逐级分解项目工作，直到参与者满意地认为项目工作已经充分地得到定义。该方法由于可以将项目工作定义在适当的细节水平，对于项目工期、成本和资源需求的估计可以比较准确。</p>
+<p>创建WBS时需要满足以下几点基本要求:</p>
+<ul>
+<li><p>某项任务应该在WBS中的一个地方且只应该在WBS中的一个地方出现。</p>
+</li>
+<li><p>WBS中某项任务的内容是其下所有WBS项的总和。</p>
+</li>
+<li><p>一个WBS项只能由一个人负责，即使许多人都可能在其上工作，也只能由一个人负责，其他人只能是参与者。</p>
+</li>
+<li><p>WBS必须与实际工作中的执行方式一致。</p>
+</li>
+<li><p>应让项目团队成员积极参与创建WBS，以确保WBS的一致性</p>
+</li>
+<li><p>每个WBS项都必须文档化，以确保准确理解已包括和未包括的工作范围。</p>
+</li>
+<li><p>WBS必须在根据范围说明书正常地维护项目工作内容的同时，也能适应无法避免的变更。</p>
+</li>
+<li><p>WBS的工作包的定义不超过40小时，建议在4-8小时。</p>
+</li>
+<li><p>WBS的层次不超过10层，建议在4-6层。</p>
+</li>
+</ul>
+<h3 id="四、WBS的表达方式"><a href="#四、WBS的表达方式" class="headerlink" title="四、WBS的表达方式"></a>四、WBS的表达方式</h3><p>WBS可以由树形的层次结构图或者行首缩进的表格表示。在实际应用中，表格形式的WBS应用比较普遍，特别是在项目管理软件中，具体的模版样式参见WBS模版样式。</p>
+<h3 id="五、WBS的分解方式"><a href="#五、WBS的分解方式" class="headerlink" title="五、WBS的分解方式"></a>五、WBS的分解方式</h3><p>WBS的分解可以采用以下三种方式进行：</p>
+<ul>
+<li><p>按产品的物理结构分解。</p>
+</li>
+<li><p>按产品或项目的功能分解。</p>
+</li>
+<li><p>按照实施过程分解。</p>
+</li>
+</ul>
+<h3 id="六、WBS的使用"><a href="#六、WBS的使用" class="headerlink" title="六、WBS的使用"></a>六、WBS的使用</h3><p>对WBS需要建立WBS词典(WBSDictionary)来描述各个工作部分。WBS词典通常包括工作包描述、进度日期、成本预算和人员分配等信息。对于每个工作包，应尽可能地包括有关工作包的必要的、尽量多的信息。当WBS与OBS综合使用时，要建立账目编码(Code ofAccount)。账目编码是用于惟一确定项目工作分解结构每一个单元的编码系统。成本和资源被分配到这一编码结构中。</p>
+<p>根据实践经验来说，最多使用20个层次，多于20层是过度的。对于一些较小的项目4-6层一般就足够了。WBS中的支路没有必要全都分解到同一层次，即不必把结构强制做成对称的。在任意支路，当达到一个层次时，可以作出所要求准确性的估算，就可以停止了</p>
+<h3 id="七、WBS的作用"><a href="#七、WBS的作用" class="headerlink" title="七、WBS的作用"></a>七、WBS的作用</h3><p>1、明确和准确说明项目的范围；</p>
+<p>2、为各独立单元分派人员，规定这些人员的相应职责；</p>
+<p>3、针对各独立单元，进行时间、费用和资源需要量的估算，提高时间、费用和资源估算的准确度；</p>
+<p>4、为计划、成本、进度计划、质量、安全和费用控制奠定共同基础，确定项目进度测量和控制的基准；</p>
+<p>5.、将项目工作与项目的财务帐目联系起来；</p>
+<p>6、便于划分和分派责任；</p>
+<p>7、确定工作内容和工作顺序；</p>
+<p>8、估算项目整体和全过程的费用。</p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework06</title>
+    <url>/2023/03/20/homework06/</url>
+    <content><![CDATA[<h2 id="理解结对编程："><a href="#理解结对编程：" class="headerlink" title="理解结对编程："></a>理解结对编程：</h2><p>​    结对编程并不是一种全新的概念，早在20世纪50年代，就已经有了结对编程的实践。结对编程主要针对软件开发团队中两个人或多个人之间的合作项目。通过对<strong>工作流</strong>（工作流，是把业务之间的各个步骤以及规则进行抽象和概括性的描述。使用特定的语言为业务流程建模，让其运行在计算机上，并让计算机进行计算和推动。）进行优化，在不影响速度和质量的前提下，把更多的时间花在一起讨论问题和完成项目。对软件开发团队来说，这是一种非常有效地工作方式。虽然结对编程可以帮助解决很多问题，但是也有一些缺点，比如它只能解决部分问题。结对编程会导致在软件开发过程中出现许多不必要的重复性工作，浪费大量时间和人力来处理这些工作。另外，结对编程会对软件开发团队造成干扰，当团队中有人正在工作时，其他人是无法使用这些技术的。</p>
+<p>​     在一个软件开发团队中，需要多个不同的角色参与进来，才能完成项目。在结对编程的情况下，多个团队成员之间是不会互相影响的，这样才能让他们投入更多的时间在一起讨论、分析问题，从而提高产品的质量。即使在最小的团队中，也应该有不同的角色，每个角色都应该知道自己在整个项目中所扮演的角色。除了开发团队外，还有质量保证团队、客户支持团队等等，每个人都应该知道自己在项目中所扮演的角色。每个人都需要知道自己所在团队是如何解决问题，并通过怎样的方式来完成工作，才能让整个项目按时完成。通过让多个团队成员参与到项目中来，可以提高整个项目的效率和质量，避免出现不必要的重复性工作。</p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
 </search>
