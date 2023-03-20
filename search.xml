@@ -85,18 +85,6 @@
       </tags>
   </entry>
   <entry>
-    <title>homework01</title>
-    <url>/2023/03/19/homework01/</url>
-    <content><![CDATA[<p><strong>（目前图床还没搞定，所以就没有自己的图了）</strong></p>
-<h2 id="作业一：关于《现代软件工程基础》这本书我要提出的问题"><a href="#作业一：关于《现代软件工程基础》这本书我要提出的问题" class="headerlink" title="作业一：关于《现代软件工程基础》这本书我要提出的问题!"></a>作业一：关于《现代软件工程基础》这本书我要提出的问题!</h2><p><img src="http://www.tup.tsinghua.edu.cn/upload/bigbookimg/088973-01.jpg" alt="01" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
-<hr>
-<h3 id="问题一"><a href="#问题一" class="headerlink" title="问题一"></a>问题一</h3><p>​    </p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>homework02</title>
     <url>/2023/03/19/homework02/</url>
     <content><![CDATA[<h2 id="我对软件工程的希望及个人目标："><a href="#我对软件工程的希望及个人目标：" class="headerlink" title="我对软件工程的希望及个人目标："></a>我对软件工程的希望及个人目标：</h2><ul>
@@ -109,6 +97,18 @@
 <li>软件开发需要从现实需求出发，对相应的现实问题进行理解，为此一般都需要对问题进行抽象；其次，他们会根据自己对于问题的理解编写程序，一般还需要通过测试来验证程序是否满足问题的描述；最后，他们将所编写的程序部署在计算服务器，个人计算机，移动设备等计算设备上，从而使其能帮助用户解决现实世界问题。由此可见，软件开发是一个从现实世界到计算机世界的知识转换过程，即针对现实世界问题开发可以在计算设备上部署并运行的解决方案。</li>
 <li>由此可见，软件工程需要兼顾软件质量、开发成本与交付时间。所以软件工程并不是教会不怎么写程序的人开发软件。</li>
 </ul>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>homework01</title>
+    <url>/2023/03/19/homework01/</url>
+    <content><![CDATA[<p><strong>（目前图床还没搞定，所以就没有自己的图了）</strong></p>
+<h2 id="作业一：关于《现代软件工程基础》这本书我要提出的问题"><a href="#作业一：关于《现代软件工程基础》这本书我要提出的问题" class="headerlink" title="作业一：关于《现代软件工程基础》这本书我要提出的问题!"></a>作业一：关于《现代软件工程基础》这本书我要提出的问题!</h2><p><img src="http://www.tup.tsinghua.edu.cn/upload/bigbookimg/088973-01.jpg" alt="01" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<hr>
+<h3 id="问题一"><a href="#问题一" class="headerlink" title="问题一"></a>问题一</h3><p>​    </p>
 ]]></content>
       <tags>
         <tag>text</tag>
@@ -129,15 +129,23 @@
       </tags>
   </entry>
   <entry>
-    <title>homework04</title>
-    <url>/2023/03/19/homework04/</url>
-    <content><![CDATA[<h2 id="什么是DevOps-阅读材料"><a href="#什么是DevOps-阅读材料" class="headerlink" title="什么是DevOps?阅读材料"></a>什么是DevOps?阅读<a href="https://www.zhihu.com/question/58702398">材料</a></h2><p>​    DevOps是产品开发过程中开发（Dev）和运营（Ops）团队之间的灰色区域。DevOps是一种在产品开发周期中强调沟通，集成和协作的文化。因此，它消除了软件开发团队和运营团队之间的孤岛，使他们能够快速，连续地集成和部署产品。</p>
-<p>​    DevOps 就是开发（Development）、测试（QA）、运维（Operations）这三个领域的合并。DevOps是一种软件开发方法，涉及软件在整个开发生命周期中的持续开发，持续测试，持续集成，持续部署和持续监控。</p>
-<p>编码——》打包——》测试——》发布——》部署——》运维——》监控</p>
-<p>DevOps 的三大支柱之中，即人（People）、流程（Process）和平台（Platform）。即`<strong>DevOps = 人 + 流程 + 平台</strong>‘</p>
-<p>人 + 流程 = 文化</p>
-<p>流程 + 平台 = 工具</p>
-<p>平台 + 人 = 赋能</p>
+    <title>homework05</title>
+    <url>/2023/03/19/homework05/</url>
+    <content><![CDATA[<h2 id="查询相关资料，了解什么是scrum中的3355？"><a href="#查询相关资料，了解什么是scrum中的3355？" class="headerlink" title="查询相关资料，了解什么是scrum中的3355？"></a>查询相关资料，了解什么是scrum中的3355？</h2><ul>
+<li><p><a href="http://t.csdn.cn/lOVqj">资料</a></p>
+</li>
+<li><p>scrum的3355是指：</p>
+<p>3个工件：产品Backlog, Sprint Backlog,潜在可交付软件增量</p>
+<p>3个角色：PO, Master, 团队（最适合人数为7-2到7+2之间）</p>
+<p>5个会议：产品待办梳理会，Sprint计划会，每日站会，Sprint评审会，Sprint回顾会</p>
+<p>5个价值观：公开，专注，勇气，承诺，尊重</p>
+<p>Scrum需遵守间箱原则：</p>
+<p>产品待办梳理会：不多于一个Sprint的10%，如两周的Sprint,可能要花一天的时间</p>
+<p>Sprint计划会分两个部分，在每个Sprint开始时召开。第一部分，产品负责人和团队审视产品待办事项列表中，这个Sprint中实现那些高优先级的事项。第二部分关注于如何实现团队决定要做的事项。每个部分的时间箱的小时数与Sprint的周数相等。如两周上鼐Sprint, 这个会议的时间为4小时。</p>
+<p>Sprint站会：每天应小于15分钟</p>
+<p>Sprint评审会：时间箱为对应Sprint中每一周对应一个小时SPrint回顾会：时间箱为对应Sprint中的每一周为45分钟</p>
+</li>
+</ul>
 ]]></content>
       <tags>
         <tag>text</tag>
@@ -230,23 +238,15 @@
       </tags>
   </entry>
   <entry>
-    <title>homework05</title>
-    <url>/2023/03/19/homework05/</url>
-    <content><![CDATA[<h2 id="查询相关资料，了解什么是scrum中的3355？"><a href="#查询相关资料，了解什么是scrum中的3355？" class="headerlink" title="查询相关资料，了解什么是scrum中的3355？"></a>查询相关资料，了解什么是scrum中的3355？</h2><ul>
-<li><p><a href="http://t.csdn.cn/lOVqj">资料</a></p>
-</li>
-<li><p>scrum的3355是指：</p>
-<p>3个工件：产品Backlog, Sprint Backlog,潜在可交付软件增量</p>
-<p>3个角色：PO, Master, 团队（最适合人数为7-2到7+2之间）</p>
-<p>5个会议：产品待办梳理会，Sprint计划会，每日站会，Sprint评审会，Sprint回顾会</p>
-<p>5个价值观：公开，专注，勇气，承诺，尊重</p>
-<p>Scrum需遵守间箱原则：</p>
-<p>产品待办梳理会：不多于一个Sprint的10%，如两周的Sprint,可能要花一天的时间</p>
-<p>Sprint计划会分两个部分，在每个Sprint开始时召开。第一部分，产品负责人和团队审视产品待办事项列表中，这个Sprint中实现那些高优先级的事项。第二部分关注于如何实现团队决定要做的事项。每个部分的时间箱的小时数与Sprint的周数相等。如两周上鼐Sprint, 这个会议的时间为4小时。</p>
-<p>Sprint站会：每天应小于15分钟</p>
-<p>Sprint评审会：时间箱为对应Sprint中每一周对应一个小时SPrint回顾会：时间箱为对应Sprint中的每一周为45分钟</p>
-</li>
-</ul>
+    <title>homework04</title>
+    <url>/2023/03/19/homework04/</url>
+    <content><![CDATA[<h2 id="什么是DevOps-阅读材料"><a href="#什么是DevOps-阅读材料" class="headerlink" title="什么是DevOps?阅读材料"></a>什么是DevOps?阅读<a href="https://www.zhihu.com/question/58702398">材料</a></h2><p>​    DevOps是产品开发过程中开发（Dev）和运营（Ops）团队之间的灰色区域。DevOps是一种在产品开发周期中强调沟通，集成和协作的文化。因此，它消除了软件开发团队和运营团队之间的孤岛，使他们能够快速，连续地集成和部署产品。</p>
+<p>​    DevOps 就是开发（Development）、测试（QA）、运维（Operations）这三个领域的合并。DevOps是一种软件开发方法，涉及软件在整个开发生命周期中的持续开发，持续测试，持续集成，持续部署和持续监控。</p>
+<p>编码——》打包——》测试——》发布——》部署——》运维——》监控</p>
+<p>DevOps 的三大支柱之中，即人（People）、流程（Process）和平台（Platform）。即`<strong>DevOps = 人 + 流程 + 平台</strong>‘</p>
+<p>人 + 流程 = 文化</p>
+<p>流程 + 平台 = 工具</p>
+<p>平台 + 人 = 赋能</p>
 ]]></content>
       <tags>
         <tag>text</tag>
