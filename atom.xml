@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-05T14:14:07.322Z</updated>
+  <updated>2023-04-17T01:50:28.519Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我用过的编程语言和编程工具</title>
+    <link href="http://example.com/2023/04/16/homework12/"/>
+    <id>http://example.com/2023/04/16/homework12/</id>
+    <published>2023-04-16T07:34:15.000Z</published>
+    <updated>2023-04-17T01:50:28.519Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="编程语言"><a href="#编程语言" class="headerlink" title="编程语言"></a>编程语言</h2><h4 id="C语言-C"><a href="#C语言-C" class="headerlink" title="C语言/C++"></a>C语言/C++</h4><ul><li>C/C++的优势：几乎所有现代编程语言都脱胎于C/C++，因此了解了C/C++，就了解了关于编程语言的一切，非常有利于快速掌握其他各类编程语言。C/C++可以被嵌入任何现代处理器中，几乎所有操作系统都支持C/C++，跨平台性非常好。</li><li>C/C++的不足：C/C++发明的时候为了提高入行门槛和行业收入水平刻意制造了学习难度。尽管C语言体型小巧，可最常使用的C++规模可观且拥有大量极为复杂的功能交互方式，容易造成资源浪费。</li></ul><h4 id="JAVA"><a href="#JAVA" class="headerlink" title="JAVA"></a>JAVA</h4><ul><li>Java是最典型的面向对象语言。Java不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等坑爹概念。</li><li>优势：世界上使用范围最广的语言Java</li><li>劣势：占用大量内存，并且启动时间较长</li></ul><h4 id="SQL"><a href="#SQL" class="headerlink" title="SQL"></a>SQL</h4><ul><li><p>学习数据库原理时运用的编程语言</p><p>优点：</p><p>1.一体化：SQL集数据定义，数据操作和数据控制于一体，可以完成数据库中的全部工作</p><p>2.使用方式灵活：SQL具有两种使用方式，可以直接命令使交互使用，也可以嵌入使用</p><p>3.非过程化：只提操作要求，不必描述步骤，也不需要导航，使用时只需要告诉计算机做什么，不需告诉他怎么做</p><p>4.语言简洁，语法简单，好学好用</p><p>5.SQL语句不分大小写，许多SQL开发人员对SQL本身关键字进行大写，而对表或列的名称使用小写</p></li></ul><h2 id="编程工具"><a href="#编程工具" class="headerlink" title="编程工具"></a>编程工具</h2><ul><li>Microsoft Visual Studio</li><li>Visual Studio code</li><li>JDK</li><li>IDEA</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;编程语言&quot;&gt;&lt;a href=&quot;#编程语言&quot; class=&quot;headerlink&quot; title=&quot;编程语言&quot;&gt;&lt;/a&gt;编程语言&lt;/h2&gt;&lt;h4 id=&quot;C语言-C&quot;&gt;&lt;a href=&quot;#C语言-C&quot; class=&quot;headerlink&quot; title=&quot;C语言/C++</summary>
+      
+    
+    
+    
+    
+    <category term="text" scheme="http://example.com/tags/text/"/>
+    
+  </entry>
   
   <entry>
     <title>什么是形式化方法？</title>
