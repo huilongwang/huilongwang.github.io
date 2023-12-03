@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>EnglishMemo.md</title>
+    <url>/2023/12/03/EnglishMemo/</url>
+    <content><![CDATA[<p>TO:Mr.Wood</p>
+<p>FROM:HuiLongWang</p>
+<p>DATE:December 3,2023</p>
+<p>SUBJECT:Whether to purchase a coffee machine for the department</p>
+<p>​    </p>
+<p>​    At a recent team meeting, we had a discussion about buying a coffee machine for our department. For me, I suggest we buy a fully automatic coffee machine.</p>
+<p>​    First of all.This coffee machine has advanced features and convenience, making it easy to make all types of coffee and easy to operate. Compared to traditional coffee machines, automatic coffee machines reduce human intervention in the coffee making process and improve efficiency, which is very important for our busy team.</p>
+<p>​    In addition, I conducted some related research and found that automatic coffee machines also have the following advantages:</p>
+<p>​    Quality assurance: The automatic coffee machine uses advanced technology and high-quality materials to ensure the taste and taste of coffee. This will provide a high quality coffee experience for our team members.</p>
+<p>​    Cost savings: Although the initial investment in a fully automatic coffee machine is high, its later maintenance and operating costs are relatively low. We can save our budget by reducing the amount of money we spend buying bottled coffee and outside coffee shops.</p>
+<p>​    Increase employee satisfaction and productivity: Studies have shown that providing good coffee facilities to employees increases employee satisfaction and productivity. A cup of high-quality coffee can help employees refresh themselves and boost their motivation.</p>
+<p>​    For the above reasons, I recommend to the team to buy a fully automatic coffee machine. I believe this will be an important move to improve the morale and efficiency of the entire department.</p>
+<p>​    Kind regards,</p>
+<p>​    HuiLongWang</p>
+]]></content>
+      <tags>
+        <tag>EnglishTest</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown语法入门</title>
     <url>/2023/03/07/Markdown%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
     <content><![CDATA[<h1 id="Markdown快速入门（typora）"><a href="#Markdown快速入门（typora）" class="headerlink" title="Markdown快速入门（typora）"></a>Markdown快速入门（typora）</h1><h1 id="注-：源码可以通过点击左下方“启动源码模式”获取。"><a href="#注-：源码可以通过点击左下方“启动源码模式”获取。" class="headerlink" title="注 ：源码可以通过点击左下方“启动源码模式”获取。"></a>注 ：源码可以通过点击左下方“启动源码模式”获取。</h1><h2 id="1-代码块："><a href="#1-代码块：" class="headerlink" title="1.代码块："></a>1.代码块：</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//代码块语法</span></span><br><span class="line">​```java</span><br><span class="line">​```shell</span><br></pre></td></tr></table></figure>
@@ -118,20 +140,6 @@
       </tags>
   </entry>
   <entry>
-    <title>软件工程方法论</title>
-    <url>/2023/03/19/homework03/</url>
-    <content><![CDATA[<h2 id="1-从瀑布到敏捷——漫画解读软件开发模式变迁史"><a href="#1-从瀑布到敏捷——漫画解读软件开发模式变迁史" class="headerlink" title="1.从瀑布到敏捷——漫画解读软件开发模式变迁史"></a>1.<a href="https://www.likecs.com/show-205163408.html">从瀑布到敏捷——漫画解读软件开发模式变迁史</a></h2><hr>
-<h2 id="2-有人负责，才有质量：写给在集市中迷失的一代"><a href="#2-有人负责，才有质量：写给在集市中迷失的一代" class="headerlink" title="2.有人负责，才有质量：写给在集市中迷失的一代"></a>2.<a href="https://www.ituring.com.cn/article/9363">有人负责，才有质量：写给在集市中迷失的一代</a></h2><hr>
-<h2 id="3-软件工程方法论对我们软件开发有多大用处？"><a href="#3-软件工程方法论对我们软件开发有多大用处？" class="headerlink" title="3.软件工程方法论对我们软件开发有多大用处？"></a>3.软件工程方法论对我们软件开发有多大用处？</h2><ul>
-<li>一阶段一阶段的进行开发，能让我们在开发软件时有计划、有规划、有效率的进行开发。</li>
-<li>方法论通过对任务进行拆分，将一个复杂的任务拆分成一个一个小事，再把这些小事串成一个大事情，分而治之。能更有效的开发。</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>什么是DevOps?</title>
     <url>/2023/03/19/homework04/</url>
     <content><![CDATA[<h2 id="什么是DevOps-阅读材料"><a href="#什么是DevOps-阅读材料" class="headerlink" title="什么是DevOps?阅读材料"></a>什么是DevOps?阅读<a href="https://www.zhihu.com/question/58702398">材料</a></h2><p>​    DevOps是产品开发过程中开发（Dev）和运营（Ops）团队之间的灰色区域。DevOps是一种在产品开发周期中强调沟通，集成和协作的文化。因此，它消除了软件开发团队和运营团队之间的孤岛，使他们能够快速，连续地集成和部署产品。</p>
@@ -141,6 +149,30 @@
 <p>人 + 流程 = 文化</p>
 <p>流程 + 平台 = 工具</p>
 <p>平台 + 人 = 赋能</p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>结对编程</title>
+    <url>/2023/03/20/homework06/</url>
+    <content><![CDATA[<h2 id="理解结对编程："><a href="#理解结对编程：" class="headerlink" title="理解结对编程："></a>理解结对编程：</h2><p>​    结对编程并不是一种全新的概念，早在20世纪50年代，就已经有了结对编程的实践。结对编程主要针对软件开发团队中两个人或多个人之间的合作项目。通过对<strong>工作流</strong>（工作流，是把业务之间的各个步骤以及规则进行抽象和概括性的描述。使用特定的语言为业务流程建模，让其运行在计算机上，并让计算机进行计算和推动。）进行优化，在不影响速度和质量的前提下，把更多的时间花在一起讨论问题和完成项目。对软件开发团队来说，这是一种非常有效地工作方式。虽然结对编程可以帮助解决很多问题，但是也有一些缺点，比如它只能解决部分问题。结对编程会导致在软件开发过程中出现许多不必要的重复性工作，浪费大量时间和人力来处理这些工作。另外，结对编程会对软件开发团队造成干扰，当团队中有人正在工作时，其他人是无法使用这些技术的。</p>
+<p>​     在一个软件开发团队中，需要多个不同的角色参与进来，才能完成项目。在结对编程的情况下，多个团队成员之间是不会互相影响的，这样才能让他们投入更多的时间在一起讨论、分析问题，从而提高产品的质量。即使在最小的团队中，也应该有不同的角色，每个角色都应该知道自己在整个项目中所扮演的角色。除了开发团队外，还有质量保证团队、客户支持团队等等，每个人都应该知道自己在项目中所扮演的角色。每个人都需要知道自己所在团队是如何解决问题，并通过怎样的方式来完成工作，才能让整个项目按时完成。通过让多个团队成员参与到项目中来，可以提高整个项目的效率和质量，避免出现不必要的重复性工作。</p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>软件工程方法论</title>
+    <url>/2023/03/19/homework03/</url>
+    <content><![CDATA[<h2 id="1-从瀑布到敏捷——漫画解读软件开发模式变迁史"><a href="#1-从瀑布到敏捷——漫画解读软件开发模式变迁史" class="headerlink" title="1.从瀑布到敏捷——漫画解读软件开发模式变迁史"></a>1.<a href="https://www.likecs.com/show-205163408.html">从瀑布到敏捷——漫画解读软件开发模式变迁史</a></h2><hr>
+<h2 id="2-有人负责，才有质量：写给在集市中迷失的一代"><a href="#2-有人负责，才有质量：写给在集市中迷失的一代" class="headerlink" title="2.有人负责，才有质量：写给在集市中迷失的一代"></a>2.<a href="https://www.ituring.com.cn/article/9363">有人负责，才有质量：写给在集市中迷失的一代</a></h2><hr>
+<h2 id="3-软件工程方法论对我们软件开发有多大用处？"><a href="#3-软件工程方法论对我们软件开发有多大用处？" class="headerlink" title="3.软件工程方法论对我们软件开发有多大用处？"></a>3.软件工程方法论对我们软件开发有多大用处？</h2><ul>
+<li>一阶段一阶段的进行开发，能让我们在开发软件时有计划、有规划、有效率的进行开发。</li>
+<li>方法论通过对任务进行拆分，将一个复杂的任务拆分成一个一个小事，再把这些小事串成一个大事情，分而治之。能更有效的开发。</li>
+</ul>
 ]]></content>
       <tags>
         <tag>text</tag>
@@ -164,46 +196,6 @@
 <p>Sprint评审会：时间箱为对应Sprint中每一周对应一个小时SPrint回顾会：时间箱为对应Sprint中的每一周为45分钟</p>
 </li>
 </ul>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>图形化</title>
-    <url>/2023/03/26/homework08/</url>
-    <content><![CDATA[<h3 id="问题一："><a href="#问题一：" class="headerlink" title="问题一："></a>问题一：</h3><p>尝试建模电梯的状态图：</p>
-<p><img src="https://cdn.staticaly.com/gh/huilongwang/images@main/20230328/%E7%94%B5%E6%A2%AF.7038vyh9gfb4.webp" alt="电梯" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
-<h3 id="问题二："><a href="#问题二：" class="headerlink" title="问题二："></a>问题二：</h3><p>学校规定：</p>
-<ul>
-<li><p>一个学生可以选修多门课程，一门课有若干学生选修；</p>
-</li>
-<li><p>一个教师可以讲授多门课，一门课只有一个教师讲授；</p>
-</li>
-<li><p>一个学生选修一门课，仅有一个成绩。</p>
-</li>
-<li><p>学生属性有学号、学生姓名；教师属性有教师编号，教师姓名；课程有课程号，课程名。</p>
-</li>
-<li><p>要求：根据上述语义画出ER图，要求在图中画出实体的属性并注明联系的类型。</p>
-</li>
-</ul>
-<p><img src="https://cdn.staticaly.com/gh/huilongwang/images@main/20230328/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%BB%98%E5%9B%BE.72sj1ztjngjk.webp" alt="未命名绘图" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
-<h3 id="问题三："><a href="#问题三：" class="headerlink" title="问题三："></a>问题三：</h3><p>某培训机构入学管理系统有报名、交费和就读等多项功能，下面是对其各项工能的说明:<br>1、报名：由报名处负责，需要在学员登记表上进行报名登记,<br>需要查询课程表让学员选报课程，学院所报课程将记录到学员<br>选课表<br>2、交费:出收费处负责，根据学员所报课程的收费标准进行收费，然后在账目表上记账,并打印收款收据给办理交费的学员<br>3、就读：由培训处负责,其在验证学员收款收据后，根据学员所报课程安排到合适班级就读。</p>
-<p><strong>画出入学管理系统的顶层图和0层图</strong></p>
-<p>顶层图：</p>
-<p><img src="https://cdn.staticaly.com/gh/huilongwang/images@main/20230328/%E9%A1%B6%E5%B1%82%E5%9B%BE.c2caa13yse8.webp" alt="顶层图" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
-<p>0层图：</p>
-<p><img src="https://cdn.staticaly.com/gh/huilongwang/images@main/20230328/0%E5%B1%82%E5%9B%BE.2wlh66guntz4.webp" alt="0层图" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
-]]></content>
-      <tags>
-        <tag>text</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>结对编程</title>
-    <url>/2023/03/20/homework06/</url>
-    <content><![CDATA[<h2 id="理解结对编程："><a href="#理解结对编程：" class="headerlink" title="理解结对编程："></a>理解结对编程：</h2><p>​    结对编程并不是一种全新的概念，早在20世纪50年代，就已经有了结对编程的实践。结对编程主要针对软件开发团队中两个人或多个人之间的合作项目。通过对<strong>工作流</strong>（工作流，是把业务之间的各个步骤以及规则进行抽象和概括性的描述。使用特定的语言为业务流程建模，让其运行在计算机上，并让计算机进行计算和推动。）进行优化，在不影响速度和质量的前提下，把更多的时间花在一起讨论问题和完成项目。对软件开发团队来说，这是一种非常有效地工作方式。虽然结对编程可以帮助解决很多问题，但是也有一些缺点，比如它只能解决部分问题。结对编程会导致在软件开发过程中出现许多不必要的重复性工作，浪费大量时间和人力来处理这些工作。另外，结对编程会对软件开发团队造成干扰，当团队中有人正在工作时，其他人是无法使用这些技术的。</p>
-<p>​     在一个软件开发团队中，需要多个不同的角色参与进来，才能完成项目。在结对编程的情况下，多个团队成员之间是不会互相影响的，这样才能让他们投入更多的时间在一起讨论、分析问题，从而提高产品的质量。即使在最小的团队中，也应该有不同的角色，每个角色都应该知道自己在整个项目中所扮演的角色。除了开发团队外，还有质量保证团队、客户支持团队等等，每个人都应该知道自己在项目中所扮演的角色。每个人都需要知道自己所在团队是如何解决问题，并通过怎样的方式来完成工作，才能让整个项目按时完成。通过让多个团队成员参与到项目中来，可以提高整个项目的效率和质量，避免出现不必要的重复性工作。</p>
 ]]></content>
       <tags>
         <tag>text</tag>
@@ -286,6 +278,36 @@
       </tags>
   </entry>
   <entry>
+    <title>图形化</title>
+    <url>/2023/03/26/homework08/</url>
+    <content><![CDATA[<h3 id="问题一："><a href="#问题一：" class="headerlink" title="问题一："></a>问题一：</h3><p>尝试建模电梯的状态图：</p>
+<p><img src="https://cdn.staticaly.com/gh/huilongwang/images@main/20230328/%E7%94%B5%E6%A2%AF.7038vyh9gfb4.webp" alt="电梯" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<h3 id="问题二："><a href="#问题二：" class="headerlink" title="问题二："></a>问题二：</h3><p>学校规定：</p>
+<ul>
+<li><p>一个学生可以选修多门课程，一门课有若干学生选修；</p>
+</li>
+<li><p>一个教师可以讲授多门课，一门课只有一个教师讲授；</p>
+</li>
+<li><p>一个学生选修一门课，仅有一个成绩。</p>
+</li>
+<li><p>学生属性有学号、学生姓名；教师属性有教师编号，教师姓名；课程有课程号，课程名。</p>
+</li>
+<li><p>要求：根据上述语义画出ER图，要求在图中画出实体的属性并注明联系的类型。</p>
+</li>
+</ul>
+<p><img src="https://cdn.staticaly.com/gh/huilongwang/images@main/20230328/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%BB%98%E5%9B%BE.72sj1ztjngjk.webp" alt="未命名绘图" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<h3 id="问题三："><a href="#问题三：" class="headerlink" title="问题三："></a>问题三：</h3><p>某培训机构入学管理系统有报名、交费和就读等多项功能，下面是对其各项工能的说明:<br>1、报名：由报名处负责，需要在学员登记表上进行报名登记,<br>需要查询课程表让学员选报课程，学院所报课程将记录到学员<br>选课表<br>2、交费:出收费处负责，根据学员所报课程的收费标准进行收费，然后在账目表上记账,并打印收款收据给办理交费的学员<br>3、就读：由培训处负责,其在验证学员收款收据后，根据学员所报课程安排到合适班级就读。</p>
+<p><strong>画出入学管理系统的顶层图和0层图</strong></p>
+<p>顶层图：</p>
+<p><img src="https://cdn.staticaly.com/gh/huilongwang/images@main/20230328/%E9%A1%B6%E5%B1%82%E5%9B%BE.c2caa13yse8.webp" alt="顶层图" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<p>0层图：</p>
+<p><img src="https://cdn.staticaly.com/gh/huilongwang/images@main/20230328/0%E5%B1%82%E5%9B%BE.2wlh66guntz4.webp" alt="0层图" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+]]></content>
+      <tags>
+        <tag>text</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用户调研分析</title>
     <url>/2023/03/27/homework09/</url>
     <content><![CDATA[<ul>
@@ -344,34 +366,24 @@
       </tags>
   </entry>
   <entry>
-    <title>了解的测试工具</title>
-    <url>/2023/04/24/homework13/</url>
-    <content><![CDATA[<h2 id="测试工具"><a href="#测试工具" class="headerlink" title="测试工具"></a>测试工具</h2><h4 id="一、测试管理工具"><a href="#一、测试管理工具" class="headerlink" title="一、测试管理工具"></a>一、测试管理工具</h4><p>​    软件测试活动开展过程中，将会涉及到大量的测试活动管理及资源文档管理，因此，拥有一个完善、有效的测试管理工具，将会给软件测试工作带来事半功倍的效果。目前业内应用较为广泛的两款测试管理工具，分别是HP的Application Lifecycle Management（简称ALM）和国内开源的项目管理软件-禅道。</p>
-<h6 id="1、ALM"><a href="#1、ALM" class="headerlink" title="1、ALM"></a>1、ALM</h6><p>​    ALM，全称Application Lifecycle Management，应用程序生命周期管理软件，顾名思义，该产品用于软件研发活动的整个生命周期管理。有HP公司生产，其早期版本分别是Test Direct及Quality Center。</p>
-<h6 id="2、禅道"><a href="#2、禅道" class="headerlink" title="2、禅道"></a>2、禅道</h6><p>​    禅道是国内第一款开源的项目管理软件，集产品管理、项目管理、质量管理、文档管理、组织管理和事务管理于一体，是一款功能完备的项目管理软件，完美地覆盖了项目管理的核心流程。</p>
-<p>​    测试工程师在禅道平台更多应用的是“测试”模块，测试模块中包括用例、用例库、Bug、报告等功能，与ALM类似，从需求分析、用例设计、用例执行、缺陷管理、报告输出完整实现了软件测试流程管理。</p>
-<h6 id="3、SVN"><a href="#3、SVN" class="headerlink" title="3、SVN"></a>3、SVN</h6><p>​    SVN是一个开源的集中式版本控制系统，是常用的代码和项目管理工具。简而言之就是用于多个人共同开发同一个项目，实现共享资源，实现最终集中式的管理。可以把SVN理解为一个库，里面存放各种文件，SVN给每个文件打上标签，记录文件的每次变动，方便你查找、获取最新的文件。</p>
-<h6 id="4、git"><a href="#4、git" class="headerlink" title="4、git"></a>4、git</h6><p>​    git和SVN的功能很像，但不同的是，SVN是集中式的，必须联网才能正常工作。而git是分布式的，所以git支持离线工作，分支管理比SVN好用。但是git的命令繁多且复杂，没有SVN简单易用。</p>
-<h4 id="二、单元测试工具"><a href="#二、单元测试工具" class="headerlink" title="二、单元测试工具"></a>二、单元测试工具</h4><p>​    软件测试理论中有一个观点：单元测试大约能发现80%的缺陷。意味着如果在单元测试阶段投入更多的精力，则可最大程度的降低软件系统中的缺陷。</p>
-<p>​    由于目前大多数企业级应用开发语言基本都是Java，故而行业内应用较多的单元测试工具为Junit及TestNG。</p>
-<h6 id="1、JUnit"><a href="#1、JUnit" class="headerlink" title="1、JUnit"></a>1、JUnit</h6><p>传统的单元测试，需要针对被测对象再重新编写调用断言程序，从而验证被测函数或类的正确性，项目规模小的时候测试人员尚能承受，随着项目的不断复杂化，工作量呈数量级增加，测试人员需要投入更多的精力，而企业也需要投入更多的成本，而Junit的出现，解决了之前的一切问题，使得单元测试变得非常简单，易于实施。</p>
-<h6 id="2-TestNG"><a href="#2-TestNG" class="headerlink" title="2.TestNG"></a>2.TestNG</h6><p>​    TestNG与JUnit一样，属于Java语言中的一个测试框架，TestNG与JUnit相比功能更为强大，JUnit目前仅能实现单元测试，并且在编程语法上具有一定的局限性，而TestNG更为简洁，同时支持多组测试Case及更多的测试应用，如功能测试、自动化测试等。</p>
-<h4 id="三、接口测试工具"><a href="#三、接口测试工具" class="headerlink" title="三、接口测试工具"></a>三、接口测试工具</h4><p>​    系统间接口，通常可以利用为两个不同的系统间，如第三方登录、第三方支付等。这类接口测试相对较难，需要提供较为完善的接口文档。目前业内主流接口测试工具主要有Jmeter、Postman、soapUI等几种，本节介绍相对常用的Jmeter及Postman。</p>
-<h6 id="1、Jmeter"><a href="#1、Jmeter" class="headerlink" title="1、Jmeter"></a>1、Jmeter</h6><p>​    Jmeter，是Apache组织开发的基于Java语言的压力/负载测试工具。与LoadRunner一样，用于对软件做压力/负载测试，随着应用范围的不断扩大及功能不断升级，越来越多的测试人员利用Jeter实施接口自动化测试。Jmeter提供断言功能，便于测试人员开发脚本验证被测对象的返回结果是否与预期结果一致。</p>
-<p>​    Jmeter除了可以实现接口功能测试之外，实际上它的主营业务是负载测试。通过设置线程池、参数化、关联等类似于LoadRunner的策略设置后，同样可以实现性能测试。</p>
-<h6 id="2、Postman"><a href="#2、Postman" class="headerlink" title="2、Postman"></a>2、Postman</h6><p>​    对于没有UI界面，纯粹是数据传递或业务逻辑处理的接口API时，利用Postman也是个不错的选择。</p>
-<p>​    Postman在测试App接口方面具有一定的优势，App应用开发初期可能涉及大量的接口数据处理，可利用Postman快速构建请求，设置验证点，在Test模块中实现返回结果与预期结果的比较，从而实现测试目的。</p>
-<h4 id="四、自动化测试工具"><a href="#四、自动化测试工具" class="headerlink" title="四、自动化测试工具"></a>四、自动化测试工具</h4><p>​    自动化测试，利用自动化测试工具，通过录制/编程方式实现测试活动，发现被测对象存在的缺陷，从而替代手工测试活动。自动化测试不局限于某个具体测试阶段，也不局限被测对象的类型，只要满足自动化测试的必要条件即可实施。、</p>
-<p>​    根据被测系统的结构形式，目前业内主要有两款开源的基于UI层面的自动化测试工具应用较为广泛，一是测试Web结构的Selenium，二是测试移动应用结构的Appium。</p>
-<h6 id="1、Selenium"><a href="#1、Selenium" class="headerlink" title="1、Selenium"></a>1、Selenium</h6><p>​    Selenium直接运行于浏览器中，更真实的模拟了用户的业务行为，验证被测对象的功能表现及在不同浏览器中的兼容性特性。与传统的自动化测试工具不同，Selenium没有独立的操作UI界面，支持更多的编程语言，如Java、Python等，更为简洁与快捷，易于测试工程师掌握应用。</p>
-<p>​    Selenium实际上不是一个测试工具，而是一个工具集，其主要由三个核心组件构成：Selenium IDE、Selenium RC（Remote Control )及Selenium Grid。</p>
-<h6 id="2、Appium"><a href="#2、Appium" class="headerlink" title="2、Appium"></a>2、Appium</h6><p>​    Selenium是目前业内应用较多的Web自动化测试工具，而开源的移动应用自动化测试工具，则多采用Appium。</p>
-<p>​    Appium是一个开源、跨平台的测试框架，可以用来测试原生及混合的移动端应用。Appium支持OS、Android。Appium使用WebDriver的json wire协议，驱动Apple系统的UIAutomation库及Android系统的UIAutomator框架。</p>
-<h6 id="3、Fiddler"><a href="#3、Fiddler" class="headerlink" title="3、Fiddler"></a>3、Fiddler</h6><p>​    Fiddler是一个常用的抓包工具。它是用C#写出来的，可以支持众多的http调试任务，并且能够使用.net语言进行扩展。Fiddler支持断点试技术，还可以显示所有的Http通讯，你可以很轻松地看到你请求的某个页面，总共被请求了多少次，以及多少字节被转换了。同类型的工具还有 httpwatch，wireshark等等。</p>
-<h4 id="五、性能测试工具"><a href="#五、性能测试工具" class="headerlink" title="五、性能测试工具"></a>五、性能测试工具</h4><h6 id="1、LoadRunner"><a href="#1、LoadRunner" class="headerlink" title="1、LoadRunner"></a>1、LoadRunner</h6><p>​    LoadRunner是一种评测软件系统性能的负载/压力测试工具。测试工程师利用该工具模拟成千上万个终端用户实施并发负载查找问题，并利用其自带的Analysis模块进行确认问题。LoadRunner适用于各种体系架构的软件系统性能测试，利用LoadRunner能最大限度地缩短测试时间，优化性能和加速应用系统的发布周期。</p>
-<h6 id="2、JMeter"><a href="#2、JMeter" class="headerlink" title="2、JMeter"></a>2、JMeter</h6><p>​    Jmeter和Loadrunner区别是，一个是开源免费，一个是收费，不开源。但是Loadrunner比Jmeter更加稳定，数据监控的报表也比Jmeter丰富。还有LoadRunner的IP欺骗功能可以更好地模拟实际用户场景。</p>
-<h4 id="六、负载测试工具"><a href="#六、负载测试工具" class="headerlink" title="六、负载测试工具"></a>六、负载测试工具</h4><p>​    Load Ninja</p>
-<p>​    是一个性能和负载测试框架，用于诊断 API 和 UI 性能问题。LoadNinja 具有内置的 TrueLoad 技术，与传统的按协议进行的性能测试相比，该技术可使测试终端用户体验的速度提高 60％。</p>
+    <title>什么是形式化方法？</title>
+    <url>/2023/04/05/homework11/</url>
+    <content><![CDATA[<h2 id="1-阅读和了解什么是形式化方法（推荐阅读书籍《大象——thinking-in-UML》）"><a href="#1-阅读和了解什么是形式化方法（推荐阅读书籍《大象——thinking-in-UML》）" class="headerlink" title="1.阅读和了解什么是形式化方法（推荐阅读书籍《大象——thinking in UML》）"></a>1.阅读和了解什么是形式化方法（推荐阅读书籍《大象——thinking in UML》）</h2><p>在计算机科学和软件工程领域，形式化方法是基于 数学的特种技术，适合于软件和硬件系统的描述、开发和验证。将形式化方法用于软件和硬件设计，是期望能够像其它工程学科一样，使用适当的数学分析以提高设计的可靠性和 鲁棒性。但是，由于采用形式化方法的成本高意味着它们通常只用于开发注重安全性的高度整合的系统。是描述系统性质的基于数学的技术，也就是说如果一种方法有坚实的数学基础，那么它就是形式化的。</p>
+<p>形式化的优点：</p>
+<p>1、能够简洁准确地描述物理现象，对象或动作的结果，因此是理想的建模工具。</p>
+<p>2、可以在不同的软件工程活动期间平滑的过渡。</p>
+<p>3、提供了高层确认的手段。可以使用数学方法证明，设计符合规格说明，程序代码正确地实现了设计结果。</p>
+<p>以下是形式化方法的准则：</p>
+<p>1、应当选择合适的表示方法。</p>
+<p>2、应当形式化，但不能过分的形式化。</p>
+<p>3、应当估算成本。</p>
+<p>4、应该有形式化方法顾问随时提供咨询。</p>
+<p>5、不应该放弃传统的开发方法。</p>
+<p>6、应该建立详尽的文档。</p>
+<p>7、不应该放弃质量标准。</p>
+<p>8、不应该盲目以来形式化方法。</p>
+<p>9、应该测试、测试再测试。</p>
+<p>10、应该重用。</p>
 ]]></content>
       <tags>
         <tag>text</tag>
@@ -411,24 +423,34 @@
       </tags>
   </entry>
   <entry>
-    <title>什么是形式化方法？</title>
-    <url>/2023/04/05/homework11/</url>
-    <content><![CDATA[<h2 id="1-阅读和了解什么是形式化方法（推荐阅读书籍《大象——thinking-in-UML》）"><a href="#1-阅读和了解什么是形式化方法（推荐阅读书籍《大象——thinking-in-UML》）" class="headerlink" title="1.阅读和了解什么是形式化方法（推荐阅读书籍《大象——thinking in UML》）"></a>1.阅读和了解什么是形式化方法（推荐阅读书籍《大象——thinking in UML》）</h2><p>在计算机科学和软件工程领域，形式化方法是基于 数学的特种技术，适合于软件和硬件系统的描述、开发和验证。将形式化方法用于软件和硬件设计，是期望能够像其它工程学科一样，使用适当的数学分析以提高设计的可靠性和 鲁棒性。但是，由于采用形式化方法的成本高意味着它们通常只用于开发注重安全性的高度整合的系统。是描述系统性质的基于数学的技术，也就是说如果一种方法有坚实的数学基础，那么它就是形式化的。</p>
-<p>形式化的优点：</p>
-<p>1、能够简洁准确地描述物理现象，对象或动作的结果，因此是理想的建模工具。</p>
-<p>2、可以在不同的软件工程活动期间平滑的过渡。</p>
-<p>3、提供了高层确认的手段。可以使用数学方法证明，设计符合规格说明，程序代码正确地实现了设计结果。</p>
-<p>以下是形式化方法的准则：</p>
-<p>1、应当选择合适的表示方法。</p>
-<p>2、应当形式化，但不能过分的形式化。</p>
-<p>3、应当估算成本。</p>
-<p>4、应该有形式化方法顾问随时提供咨询。</p>
-<p>5、不应该放弃传统的开发方法。</p>
-<p>6、应该建立详尽的文档。</p>
-<p>7、不应该放弃质量标准。</p>
-<p>8、不应该盲目以来形式化方法。</p>
-<p>9、应该测试、测试再测试。</p>
-<p>10、应该重用。</p>
+    <title>了解的测试工具</title>
+    <url>/2023/04/24/homework13/</url>
+    <content><![CDATA[<h2 id="测试工具"><a href="#测试工具" class="headerlink" title="测试工具"></a>测试工具</h2><h4 id="一、测试管理工具"><a href="#一、测试管理工具" class="headerlink" title="一、测试管理工具"></a>一、测试管理工具</h4><p>​    软件测试活动开展过程中，将会涉及到大量的测试活动管理及资源文档管理，因此，拥有一个完善、有效的测试管理工具，将会给软件测试工作带来事半功倍的效果。目前业内应用较为广泛的两款测试管理工具，分别是HP的Application Lifecycle Management（简称ALM）和国内开源的项目管理软件-禅道。</p>
+<h6 id="1、ALM"><a href="#1、ALM" class="headerlink" title="1、ALM"></a>1、ALM</h6><p>​    ALM，全称Application Lifecycle Management，应用程序生命周期管理软件，顾名思义，该产品用于软件研发活动的整个生命周期管理。有HP公司生产，其早期版本分别是Test Direct及Quality Center。</p>
+<h6 id="2、禅道"><a href="#2、禅道" class="headerlink" title="2、禅道"></a>2、禅道</h6><p>​    禅道是国内第一款开源的项目管理软件，集产品管理、项目管理、质量管理、文档管理、组织管理和事务管理于一体，是一款功能完备的项目管理软件，完美地覆盖了项目管理的核心流程。</p>
+<p>​    测试工程师在禅道平台更多应用的是“测试”模块，测试模块中包括用例、用例库、Bug、报告等功能，与ALM类似，从需求分析、用例设计、用例执行、缺陷管理、报告输出完整实现了软件测试流程管理。</p>
+<h6 id="3、SVN"><a href="#3、SVN" class="headerlink" title="3、SVN"></a>3、SVN</h6><p>​    SVN是一个开源的集中式版本控制系统，是常用的代码和项目管理工具。简而言之就是用于多个人共同开发同一个项目，实现共享资源，实现最终集中式的管理。可以把SVN理解为一个库，里面存放各种文件，SVN给每个文件打上标签，记录文件的每次变动，方便你查找、获取最新的文件。</p>
+<h6 id="4、git"><a href="#4、git" class="headerlink" title="4、git"></a>4、git</h6><p>​    git和SVN的功能很像，但不同的是，SVN是集中式的，必须联网才能正常工作。而git是分布式的，所以git支持离线工作，分支管理比SVN好用。但是git的命令繁多且复杂，没有SVN简单易用。</p>
+<h4 id="二、单元测试工具"><a href="#二、单元测试工具" class="headerlink" title="二、单元测试工具"></a>二、单元测试工具</h4><p>​    软件测试理论中有一个观点：单元测试大约能发现80%的缺陷。意味着如果在单元测试阶段投入更多的精力，则可最大程度的降低软件系统中的缺陷。</p>
+<p>​    由于目前大多数企业级应用开发语言基本都是Java，故而行业内应用较多的单元测试工具为Junit及TestNG。</p>
+<h6 id="1、JUnit"><a href="#1、JUnit" class="headerlink" title="1、JUnit"></a>1、JUnit</h6><p>传统的单元测试，需要针对被测对象再重新编写调用断言程序，从而验证被测函数或类的正确性，项目规模小的时候测试人员尚能承受，随着项目的不断复杂化，工作量呈数量级增加，测试人员需要投入更多的精力，而企业也需要投入更多的成本，而Junit的出现，解决了之前的一切问题，使得单元测试变得非常简单，易于实施。</p>
+<h6 id="2-TestNG"><a href="#2-TestNG" class="headerlink" title="2.TestNG"></a>2.TestNG</h6><p>​    TestNG与JUnit一样，属于Java语言中的一个测试框架，TestNG与JUnit相比功能更为强大，JUnit目前仅能实现单元测试，并且在编程语法上具有一定的局限性，而TestNG更为简洁，同时支持多组测试Case及更多的测试应用，如功能测试、自动化测试等。</p>
+<h4 id="三、接口测试工具"><a href="#三、接口测试工具" class="headerlink" title="三、接口测试工具"></a>三、接口测试工具</h4><p>​    系统间接口，通常可以利用为两个不同的系统间，如第三方登录、第三方支付等。这类接口测试相对较难，需要提供较为完善的接口文档。目前业内主流接口测试工具主要有Jmeter、Postman、soapUI等几种，本节介绍相对常用的Jmeter及Postman。</p>
+<h6 id="1、Jmeter"><a href="#1、Jmeter" class="headerlink" title="1、Jmeter"></a>1、Jmeter</h6><p>​    Jmeter，是Apache组织开发的基于Java语言的压力/负载测试工具。与LoadRunner一样，用于对软件做压力/负载测试，随着应用范围的不断扩大及功能不断升级，越来越多的测试人员利用Jeter实施接口自动化测试。Jmeter提供断言功能，便于测试人员开发脚本验证被测对象的返回结果是否与预期结果一致。</p>
+<p>​    Jmeter除了可以实现接口功能测试之外，实际上它的主营业务是负载测试。通过设置线程池、参数化、关联等类似于LoadRunner的策略设置后，同样可以实现性能测试。</p>
+<h6 id="2、Postman"><a href="#2、Postman" class="headerlink" title="2、Postman"></a>2、Postman</h6><p>​    对于没有UI界面，纯粹是数据传递或业务逻辑处理的接口API时，利用Postman也是个不错的选择。</p>
+<p>​    Postman在测试App接口方面具有一定的优势，App应用开发初期可能涉及大量的接口数据处理，可利用Postman快速构建请求，设置验证点，在Test模块中实现返回结果与预期结果的比较，从而实现测试目的。</p>
+<h4 id="四、自动化测试工具"><a href="#四、自动化测试工具" class="headerlink" title="四、自动化测试工具"></a>四、自动化测试工具</h4><p>​    自动化测试，利用自动化测试工具，通过录制/编程方式实现测试活动，发现被测对象存在的缺陷，从而替代手工测试活动。自动化测试不局限于某个具体测试阶段，也不局限被测对象的类型，只要满足自动化测试的必要条件即可实施。、</p>
+<p>​    根据被测系统的结构形式，目前业内主要有两款开源的基于UI层面的自动化测试工具应用较为广泛，一是测试Web结构的Selenium，二是测试移动应用结构的Appium。</p>
+<h6 id="1、Selenium"><a href="#1、Selenium" class="headerlink" title="1、Selenium"></a>1、Selenium</h6><p>​    Selenium直接运行于浏览器中，更真实的模拟了用户的业务行为，验证被测对象的功能表现及在不同浏览器中的兼容性特性。与传统的自动化测试工具不同，Selenium没有独立的操作UI界面，支持更多的编程语言，如Java、Python等，更为简洁与快捷，易于测试工程师掌握应用。</p>
+<p>​    Selenium实际上不是一个测试工具，而是一个工具集，其主要由三个核心组件构成：Selenium IDE、Selenium RC（Remote Control )及Selenium Grid。</p>
+<h6 id="2、Appium"><a href="#2、Appium" class="headerlink" title="2、Appium"></a>2、Appium</h6><p>​    Selenium是目前业内应用较多的Web自动化测试工具，而开源的移动应用自动化测试工具，则多采用Appium。</p>
+<p>​    Appium是一个开源、跨平台的测试框架，可以用来测试原生及混合的移动端应用。Appium支持OS、Android。Appium使用WebDriver的json wire协议，驱动Apple系统的UIAutomation库及Android系统的UIAutomator框架。</p>
+<h6 id="3、Fiddler"><a href="#3、Fiddler" class="headerlink" title="3、Fiddler"></a>3、Fiddler</h6><p>​    Fiddler是一个常用的抓包工具。它是用C#写出来的，可以支持众多的http调试任务，并且能够使用.net语言进行扩展。Fiddler支持断点试技术，还可以显示所有的Http通讯，你可以很轻松地看到你请求的某个页面，总共被请求了多少次，以及多少字节被转换了。同类型的工具还有 httpwatch，wireshark等等。</p>
+<h4 id="五、性能测试工具"><a href="#五、性能测试工具" class="headerlink" title="五、性能测试工具"></a>五、性能测试工具</h4><h6 id="1、LoadRunner"><a href="#1、LoadRunner" class="headerlink" title="1、LoadRunner"></a>1、LoadRunner</h6><p>​    LoadRunner是一种评测软件系统性能的负载/压力测试工具。测试工程师利用该工具模拟成千上万个终端用户实施并发负载查找问题，并利用其自带的Analysis模块进行确认问题。LoadRunner适用于各种体系架构的软件系统性能测试，利用LoadRunner能最大限度地缩短测试时间，优化性能和加速应用系统的发布周期。</p>
+<h6 id="2、JMeter"><a href="#2、JMeter" class="headerlink" title="2、JMeter"></a>2、JMeter</h6><p>​    Jmeter和Loadrunner区别是，一个是开源免费，一个是收费，不开源。但是Loadrunner比Jmeter更加稳定，数据监控的报表也比Jmeter丰富。还有LoadRunner的IP欺骗功能可以更好地模拟实际用户场景。</p>
+<h4 id="六、负载测试工具"><a href="#六、负载测试工具" class="headerlink" title="六、负载测试工具"></a>六、负载测试工具</h4><p>​    Load Ninja</p>
+<p>​    是一个性能和负载测试框架，用于诊断 API 和 UI 性能问题。LoadNinja 具有内置的 TrueLoad 技术，与传统的按协议进行的性能测试相比，该技术可使测试终端用户体验的速度提高 60％。</p>
 ]]></content>
       <tags>
         <tag>text</tag>
